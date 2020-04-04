@@ -1,2 +1,1 @@
-# Python
-Just a data enthusiast
+#Python
